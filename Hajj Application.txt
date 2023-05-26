@@ -1,0 +1,27 @@
+
+Your full name is: mai
+You are a: resident
+Your ID is: 1111111111
+You are from: sssss
+Your age is: 1
+You are: Vaccinated
+Your booking number is: 33486
+Your campaign choice is: Campaign (A)
+Your final price is: 10000
+Your card name is: ssssew
+Your card number is: 1111111111
+Your cvv is: 111
+Your payment method is: visa
+Your full name is: rahaf
+You are a: resident
+Your ID is: 1111111111
+You are from: sssss
+Your age is: 11
+You are: Vaccinated
+Your booking number is: 39963
+Your campaign choice is: Campaign (A)
+Your final price is: 10000
+Your card name is: sssss
+Your card number is: 11111111
+Your cvv is: 111
+Your payment method is: visa
